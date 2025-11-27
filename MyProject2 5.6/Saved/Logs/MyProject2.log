@@ -1304,3 +1304,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-18.28.03:378][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28542.861328
 [2025.11.27-18.28.04:377][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.27-18.28.04:377][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28543.527344, Update Interval: 359.430511
+[2025.11.27-18.34.56:053][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28955.718750
+[2025.11.27-18.34.57:049][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-18.34.57:050][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28956.386719, Update Interval: 333.194366
+[2025.11.27-18.41.15:630][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29335.558594
+[2025.11.27-18.41.16:625][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-18.41.16:625][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29336.226562, Update Interval: 302.371277
+[2025.11.27-18.42.06:512][807]LogSlate: Took 0.016019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.27-18.42.06:979][807]LogSlate: Took 0.008945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
